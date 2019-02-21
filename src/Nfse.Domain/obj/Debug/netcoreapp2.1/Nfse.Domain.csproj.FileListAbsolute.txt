@@ -1,0 +1,9 @@
+C:\Works\nfe\validador-nfse-nacional\src\Nfse.Domain\bin\Debug\netcoreapp2.1\Nfse.Domain.deps.json
+C:\Works\nfe\validador-nfse-nacional\src\Nfse.Domain\bin\Debug\netcoreapp2.1\Nfse.Domain.dll
+C:\Works\nfe\validador-nfse-nacional\src\Nfse.Domain\bin\Debug\netcoreapp2.1\Nfse.Domain.pdb
+C:\Works\nfe\validador-nfse-nacional\src\Nfse.Domain\obj\Debug\netcoreapp2.1\Nfse.Domain.csprojAssemblyReference.cache
+C:\Works\nfe\validador-nfse-nacional\src\Nfse.Domain\obj\Debug\netcoreapp2.1\Nfse.Domain.csproj.CoreCompileInputs.cache
+C:\Works\nfe\validador-nfse-nacional\src\Nfse.Domain\obj\Debug\netcoreapp2.1\Nfse.Domain.AssemblyInfoInputs.cache
+C:\Works\nfe\validador-nfse-nacional\src\Nfse.Domain\obj\Debug\netcoreapp2.1\Nfse.Domain.AssemblyInfo.cs
+C:\Works\nfe\validador-nfse-nacional\src\Nfse.Domain\obj\Debug\netcoreapp2.1\Nfse.Domain.dll
+C:\Works\nfe\validador-nfse-nacional\src\Nfse.Domain\obj\Debug\netcoreapp2.1\Nfse.Domain.pdb

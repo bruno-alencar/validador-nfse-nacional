@@ -1,0 +1,17 @@
+C:\Works\nfe\validador-nfse-nacional\test\Nfse.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Works\nfe\validador-nfse-nacional\test\Nfse.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Works\nfe\validador-nfse-nacional\test\Nfse.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Works\nfe\validador-nfse-nacional\test\Nfse.UnitTests\bin\Debug\netcoreapp2.1\Nfse.UnitTests.deps.json
+C:\Works\nfe\validador-nfse-nacional\test\Nfse.UnitTests\bin\Debug\netcoreapp2.1\Nfse.UnitTests.runtimeconfig.json
+C:\Works\nfe\validador-nfse-nacional\test\Nfse.UnitTests\bin\Debug\netcoreapp2.1\Nfse.UnitTests.runtimeconfig.dev.json
+C:\Works\nfe\validador-nfse-nacional\test\Nfse.UnitTests\bin\Debug\netcoreapp2.1\Nfse.UnitTests.dll
+C:\Works\nfe\validador-nfse-nacional\test\Nfse.UnitTests\bin\Debug\netcoreapp2.1\Nfse.UnitTests.pdb
+C:\Works\nfe\validador-nfse-nacional\test\Nfse.UnitTests\bin\Debug\netcoreapp2.1\Nfse.Domain.dll
+C:\Works\nfe\validador-nfse-nacional\test\Nfse.UnitTests\bin\Debug\netcoreapp2.1\Nfse.Domain.pdb
+C:\Works\nfe\validador-nfse-nacional\test\Nfse.UnitTests\obj\Debug\netcoreapp2.1\Nfse.UnitTests.csprojAssemblyReference.cache
+C:\Works\nfe\validador-nfse-nacional\test\Nfse.UnitTests\obj\Debug\netcoreapp2.1\Nfse.UnitTests.csproj.CoreCompileInputs.cache
+C:\Works\nfe\validador-nfse-nacional\test\Nfse.UnitTests\obj\Debug\netcoreapp2.1\Nfse.UnitTests.AssemblyInfoInputs.cache
+C:\Works\nfe\validador-nfse-nacional\test\Nfse.UnitTests\obj\Debug\netcoreapp2.1\Nfse.UnitTests.AssemblyInfo.cs
+C:\Works\nfe\validador-nfse-nacional\test\Nfse.UnitTests\obj\Debug\netcoreapp2.1\Nfse.UnitTests.csproj.CopyComplete
+C:\Works\nfe\validador-nfse-nacional\test\Nfse.UnitTests\obj\Debug\netcoreapp2.1\Nfse.UnitTests.dll
+C:\Works\nfe\validador-nfse-nacional\test\Nfse.UnitTests\obj\Debug\netcoreapp2.1\Nfse.UnitTests.pdb
